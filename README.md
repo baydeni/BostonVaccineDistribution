@@ -4,10 +4,10 @@ This is my groups' final project from **INSH 2102 - Bostonography: The City thro
 
 ## Components of our Project
 
-BostonVaccineDistribution.ipynb
+### BostonVaccineDistribution.ipynb
 * This is our final Jupyter Notebook submission. It summarizes all of the findings in our Digital Poster Presentation and presents all of our data in an easy to follow notebook format
 
-CSVs
+### CSVs
 * These are the data sets we created and used. These are required to run our Jupyter Notebook, so you may need to move the Jupyter Notebook into this folder in order to run it. These include:
 	* Massachusetts_Vaccine_Sites.csv
 	* County_Covid_CSV.csv
@@ -15,7 +15,7 @@ CSVs
 	* County_Demo_CSV.csv
 
 
-Additional Links:
+### Additional Links:
 * FrameVR, the virtual reality room of our Digital Poster Presentation: 
 	* https://framevr.io/bostonographydigitalposter
 
