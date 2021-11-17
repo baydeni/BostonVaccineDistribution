@@ -14,8 +14,6 @@ CSVs
 	* County_Wealth_CSV.csv
 	* County_Demo_CSV.csv
 
-Works Cited
-* Our bibliography cited in APA format
 
 Additional Links:
 * FrameVR, the virtual reality room of our Digital Poster Presentation: 
